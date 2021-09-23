@@ -4,9 +4,7 @@ import { hot } from "react-hot-loader/root";
 import store from "./redux/store";
 
 export const App = () => {
-    const { handleWidget, state } = this;
-
-    return <Provider store={store}></Provider>;
+    return <Provider store={store} />;
 };
 
 export default hot(App);
