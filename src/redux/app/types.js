@@ -1,0 +1,5 @@
+export const START_LOADER = 'START_LOADER';
+export const STOP_LOADER = 'STOP_LOADER';
+export const STORE_AUTH_DATA = 'STORE_AUTH_DATA';
+export const STORE_SELECTED_DATA = 'STORE_SELECTED_DATA';
+export const SET_TOAST = 'SET_TOAST';
